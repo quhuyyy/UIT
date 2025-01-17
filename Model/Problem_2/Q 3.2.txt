@@ -1,0 +1,6 @@
+[Q 3.2] Diagonal Product
+Given a two-dimensional array whose each element is integer, its size is N x N.
+Implement the following function:
+int diagonalProduct(int arr[][1000], int row, int col);
+Where arr, row and col are the given two-dimensional array, its number of rows and its number of columns. Find the product of all elements on the main diagonal of this array.
+Note: Libraries iostream, and string have been imported, and namespace std has been used.

@@ -1,0 +1,7 @@
+[Q 2.2] Find the maximum length of a substring with no repeated characters
+Write a program read a string s from keyboard, find and return the length of the longest sub-string that doesn't have any repeated character in s.
+
+Input:
+String s.
+Output:
+Length of the longest sub-string that doesn't have any repeated character in s.

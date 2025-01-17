@@ -1,0 +1,12 @@
+[Q 4.5] student grading
+Write a function void studendGrading(string fileName) that reads a txt file, the first line consists of a positive integer N, N lines follow each line containing 4 real numbers, respectively, the scores of the subjects NMDT, KTLT, DSA and PPL of N students.
+The student's grade point average (GPA) will be the average of the above 4 score columns. Students will be graded based on the following scores:
+Grade A if the test score is >= 8 and no subject is below 5.
+Grade B if 8 > GPA >= 6.5 and no subject below 5.
+Grade C if 6.5 > GPA >= 5 and no subject below 5.
+Grade D for the remaining cases.
+Determine the number of students of each category and output the results to the screen.
+Input:
+The variable "fileName" is the file name that contains information about the student's score.
+Output:
+The number of students in each category is recorded on the screen.

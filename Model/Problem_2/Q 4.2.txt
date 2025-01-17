@@ -1,0 +1,6 @@
+[Q 4.2] - calculate sum
+Write a function void calSum(string fileName) to calculate the sum of non-negative integers read from a txt file (numbers in a row separated by a space).
+Input:
+The variable "fileName" is a data file name containing non-negative integers (numbers in 1 row separated by a space).
+Output:
+An integer is the sum of the input integers.

@@ -1,0 +1,2 @@
+[Q 2.6] Find all occurrence positions of the substring in a string
+Implement findAllIndex(string s1, string s2) to print all positions of the first character of string s2 in string s1. If not found, print -1. The found positions will be separated by a space, after the last position, do not print any more characters (including spaces, carriage returns)

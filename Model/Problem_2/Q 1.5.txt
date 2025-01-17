@@ -1,0 +1,8 @@
+[Q 1.5] Compute the value of a binary string
+Implement int calc(const char *str) function which returns the decimal value of binary string str.
+- Input:
+Char * pointer to the first character of string
+- Output:
+The decimal value of binary string
+- Available library: <iostream>, <cstring>
+- Note: Your code MUST NOT contain any of the words in the list {"include", "string"} even in the comment

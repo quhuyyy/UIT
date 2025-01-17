@@ -1,0 +1,7 @@
+[Q 2.3] Find the maximum length of a symmetric substring
+Write a program read an s string from keyboard, find and return the longest symetrical sub-string of s.
+
+Input:
+String s.
+Output:
+The longest symmetrical sub-string from s. In case where there are more than one highest string, return the string with the smallest starting character index.

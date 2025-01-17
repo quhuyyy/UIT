@@ -1,0 +1,6 @@
+[Q 3.6] Special Cells
+Given a two-dimensional array whose each element is integer, its size is M x N.
+Implement the following function:
+int specialCells(int arr[][1000], int row, int col);
+Where arr, row and col are the given two-dimensional array, its number of rows and its number of columns. A cell is called as HN3 if the sum of all elements of the row containing it and the sum of all elements of the column containing it are prime numbers. Find the number of HN3 cells of the given array.
+Note: Libraries iostream, vector, and string have been imported, and namespace std has been used.
